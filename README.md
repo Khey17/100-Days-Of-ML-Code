@@ -1,7 +1,6 @@
-# 100-Days-Of-ML-Code
+# 100-Days-Of-ML-Code 🧑‍💻
+I have started re-learning Machine Learning and will be updating this repository with my progress. My focus is on exploring and learning new concepts in Machine Learning. Recently, I have been working on research papers related to Supervised Contrastive Learning from 'Arxiv' (February to June). Currently, I am diving into MATLAB and its various tools to enhance my skills.
 
-Started re-learning ML (After discontinuing it) whenever I learn something new in Machine Learning, This Repository will be updated. Right now, I forked an open source project and working on it for the past one month (March - April 2023). 
+This README file will serve as a record of my learning journey and help me track my progress 📈.
 
-This readme file will help me keep track of my learning progress.
-
-**Current Learning Status:** Finished learning, how to build a deep learning model using pre-trained model using TensorFlow. 
+**Current Learning Status:** I am currently focusing on learning Data Pre-processing & Visualization using MATLAB.
