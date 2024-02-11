@@ -3,4 +3,4 @@ I have started re-learning Machine Learning and will be updating this repository
 
 This README file will serve as a record of my learning journey and help me track my progress 📈.
 
-**Current Learning Status:** I am currently focusing on learning Data Pre-processing & Visualization using MATLAB.
+**Current Learning Status:** I am currently focusing on learning TensorFlow through various projects like food classification, dog breed classification, etc.
