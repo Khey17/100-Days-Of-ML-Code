@@ -312,6 +312,19 @@ def results(y_true, y_pred, classification=True):
         return model_results
 
 
+def model_checkpoint(checkpoint_path):
+    """
+    Creates a ModelCheckpoint callback that saves the model's weights only.
+
+    :param checkpoint_path: the filepath to save the model's weights
+    :return: tf.keras.callbacks.ModelCheckpoint()
+    """
+
+    return tf.keras.callbacks.ModelCheckpoint(checkpoint_path, save_weights_only=True,
+                                              monitor='val_accuracy', save_best_only=True,
+                                              verbose=1)
+
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print('Running...')
