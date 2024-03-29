@@ -315,7 +315,7 @@ class ModelEvaluation:
         ax.set(title='Confusion Matrix',
                xlabel='Predicted label', ylabel='True label',
                xticks=np.arange(n_classes),  # create enough axis slots for each class
-               y_ticks=np.arange(n_classes),
+               yticks=np.arange(n_classes),
                xticklabels=labels,  # axes will be labeled with class names (if they exist) or ints
                yticklabels=labels)
 
